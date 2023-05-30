@@ -136,6 +136,9 @@ OUT PUT:
 
 
 RESULT:
+
+
+
 Thus a perceptron for classification is implemented using python
 
 
