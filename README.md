@@ -135,7 +135,8 @@ OUT PUT:
 ![R5](https://user-images.githubusercontent.com/119091638/231529732-d0f53d63-61a0-4dad-8997-8aca430fbc01.png)
 
 
-
+RESULT:
+Thus a perceptron for classification is implemented using python
 
 
 
